@@ -1,0 +1,42 @@
+---
+title: "Week-1-Nuts-and-Bolts"
+author: "Chris Ognibene"
+date: '2022-02-28'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Types - Objects and Attributes:
+```{r}
+
+```
+
+## Data Types - Vectors and Lists:
+```{r}
+
+```
+
+## Data Types - Matrices:
+```{r}
+
+```
+
+## Data Types - Factors:
+```{r}
+
+```
+
+
+## Data Types - Missing Values:
+```{r}
+
+```
+
+## Data Types - DataFrames:
+```{r}
+
+```
+
